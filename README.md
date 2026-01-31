@@ -58,7 +58,7 @@
 - GitHub: [Raushan2001](https://github.com/Raushan2001)
 
 📄 Know about my experiences:
-- [Resume](https://drive.google.com/file/d/1l01P59tRaH4fCX4TPK0LZ7DA_hoIT3w-/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1me8x6Hiyy5hDbkYAPxVClUpC6MZAvNWd/view?usp=drive_link)
 
 ⚡ Fun fact:
 - I guess I am funny 😄
