@@ -6,17 +6,17 @@
 
 #### Current Experience
 🔭 I’m currently working as a 
-- **Temporary Demonstrator at General Sir John Kotelawala Defence University** (Mar 2024 – Present)
-  - Conducting lectures and labs on Quality Assurance, C++, and Software Engineering.
-  - Mentoring students in testing methodologies and programming concepts.
-  - Coordinating with academic teams for structured content delivery.
-
-- **Part-Time Associate QA Engineer at Synaptic Global** (Jan 2024 – Present)
+- **QA Engineer at Synaptic Global** (June 2025 – Present)
   - Working on software projects like Circle POS, performing test case design, execution, and defect tracking.
   - Collaborating with developers to resolve issues and enhance product performance.
   - Engaging in client meetings to gather requirements and align project outcomes.
 
 #### Earlier Experience
+
+- **Associate QA Engineer at Synaptic Global** (Jan 2024 – June 2025)
+  - Working on software projects like Circle POS, performing test case design, execution, and defect tracking.
+  - Collaborating with developers to resolve issues and enhance product performance.
+  - Engaging in client meetings to gather requirements and align project outcomes.
 
 - **Tutor / Lab Instructor at NSBM Green University Town** (Apr 2023 – Jan 2024)
   - Conducted lab sessions on Python, Java, SQL, and Data Structures.
